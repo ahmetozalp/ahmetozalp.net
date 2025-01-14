@@ -18,7 +18,7 @@ export const BLOG_CATEGORIES: {
 export const BLOG_AUTHORS = {
   ahmetozalp: {
     name: "ahmetozalp",
-    image: "/_static/avatars/mickasmt.png",
+    image: "/_static/avatars/ahmetozalp.png",
     twitter: "ahmeotozalp",
   }
 };

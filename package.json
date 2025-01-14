@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "author": {
-    "name": "mickasmt",
-    "url": "https://twitter.com/mickasmt"
+    "name": "ahmetozalp",
+    "url": "https://twitter.com/ahmetozalp"
   },
   "scripts": {
     "dev": "next dev",
