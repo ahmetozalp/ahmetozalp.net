@@ -5,7 +5,7 @@ import { BlogPosts } from "@/components/content/blog-posts";
 
 export const metadata = constructMetadata({
   title: "Blog – Next Template",
-  description: "Latest news and updates from Next Auth Roles Template.",
+  description: "Son Blog Gönderileri.",
 });
 
 export default async function BlogPage() {
