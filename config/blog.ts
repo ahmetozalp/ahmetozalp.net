@@ -4,26 +4,21 @@ export const BLOG_CATEGORIES: {
   description: string;
 }[] = [
   {
-    title: "News",
+    title: "En Son Eklenenler",
     slug: "news",
     description: "Updates and announcements from Next Template.",
   },
   {
-    title: "Education",
+    title: "Eğitim",
     slug: "education",
     description: "Educational content about template management.",
   },
 ];
 
 export const BLOG_AUTHORS = {
-  mickasmt: {
-    name: "mickasmt",
+  ahmetozalp: {
+    name: "ahmetozalp",
     image: "/_static/avatars/mickasmt.png",
-    twitter: "miickasmt",
-  },
-  shadcn: {
-    name: "shadcn",
-    image: "/_static/avatars/shadcn.jpeg",
-    twitter: "shadcn",
-  },
+    twitter: "ahmeotozalp",
+  }
 };
