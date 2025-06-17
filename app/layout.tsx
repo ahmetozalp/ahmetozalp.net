@@ -28,6 +28,9 @@ export default function RootLayout({ children }: RootLayoutProps) {
           fontSatoshi.variable,
         )}
       >
+        <script async src="https://cse.google.com/cse.js?cx=d6be0c1b687ea4e5a">
+</script>
+<div class="gcse-search"></div>
         <SessionProvider>
           <ThemeProvider
             attribute="class"
